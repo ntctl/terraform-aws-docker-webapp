@@ -1,8 +1,9 @@
-FROM python:3.13-slim
+FROM python:3.14-slim
 
 ENV FLASK_APP=app.py
 ENV FLASK_ENV=development
 ENV FLASK_RUN_PORT=8080
+ENV FLASK_RUN_HOST=0.0.0.0
 
 WORKDIR /app
 
