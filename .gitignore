@@ -138,3 +138,13 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Keys and Terraform files
+*.pem
+*.pub
+*.key
+*.crt
+*.tfvars
+*.tfstate*
+*.hcl
+.terraform/
