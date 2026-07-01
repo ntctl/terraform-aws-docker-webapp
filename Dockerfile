@@ -1,4 +1,4 @@
-FROM python:3.14-slim
+FROM python:3.15.0b3-alpine
 
 ENV FLASK_APP=app.py
 ENV FLASK_ENV=development
