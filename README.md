@@ -4,7 +4,7 @@
 #### Clone the repository
 
 ```bash
-git clone https://github.com/tchyba/dockerized-flask-todo.git
+git clone https://github.com/tchyba/terraform-aws-docker-webapp.git
 ```
 
 #### Build the Docker image
