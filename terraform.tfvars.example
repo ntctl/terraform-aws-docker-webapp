@@ -1,0 +1,5 @@
+aws_access_key_id     = "YOUR_AWS_ACCESS_KEY"
+aws_secret_access_key = "YOUR_AWS_SECRET_KEY"
+id                    = "YOUR_AWS_PROFILE_ID"
+public_key            = "YOUR_PUBLIC_SSH_KEY"
+ssh_ip                = "YOUR_IP"
