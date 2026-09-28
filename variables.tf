@@ -41,3 +41,9 @@ variable "key_name" {
   default     = "terraform-aws-instance-key"
   type        = string
 }
+
+variable "s3_bucket_name" {
+  type        = string
+  description = "AWS S3 bucket name"
+  sensitive   = true
+}
